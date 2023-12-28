@@ -30,5 +30,4 @@ REACT_APP_BASE_URL= https://api.escuelajs.co/api/v1/products
 
 donot forget to add env variable#
 
-![Uploading image.png…]()
 
